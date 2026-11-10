@@ -1,1 +1,1 @@
-# aula10-cicd
+# Pipeline de CI da Aula 10.
